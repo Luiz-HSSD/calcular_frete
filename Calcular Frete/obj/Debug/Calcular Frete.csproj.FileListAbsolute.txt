@@ -1,0 +1,17 @@
+C:\Documents and Settings\Bibli\Meus documentos\Visual Studio 2008\Projects\Calcular Frete\Calcular Frete\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Documents and Settings\Bibli\Meus documentos\Visual Studio 2008\Projects\Calcular Frete\Calcular Frete\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Bibli\Meus documentos\Visual Studio 2008\Projects\Calcular Frete\Calcular Frete\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Bibli\Meus documentos\Visual Studio 2008\Projects\Calcular Frete\Calcular Frete\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bibli\Meus documentos\Visual Studio 2008\Projects\Calcular Frete\Calcular Frete\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Bibli\Meus documentos\Visual Studio 2008\Projects\Calcular Frete\Calcular Frete\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Bibli\Meus documentos\Visual Studio 2008\Projects\Calcular Frete\Calcular Frete\obj\Debug\Calcular Frete.csproj.GenerateResource.Cache
+C:\Documents and Settings\Bibli\Meus documentos\Visual Studio 2008\Projects\Calcular Frete\Calcular Frete\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Bibli\Meus documentos\Visual Studio 2008\Projects\Calcular Frete\Calcular Frete\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\Calcular Frete\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\Calcular Frete\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\Calcular Frete\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\Calcular Frete\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\Calcular Frete\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\Calcular Frete\obj\Debug\Calcular Frete.csproj.GenerateResource.Cache
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\Calcular Frete\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\Calcular Frete\obj\Debug\WindowsFormsApplication1.pdb
