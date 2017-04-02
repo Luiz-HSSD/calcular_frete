@@ -156,5 +156,8 @@
   <ItemGroup>
     <None Include="Web References\br.com.correios.ws\CalcPrecoPrazo.disco" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="truck_13241.ico" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

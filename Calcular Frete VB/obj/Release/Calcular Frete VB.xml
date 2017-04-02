@@ -1,0 +1,269 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Calcular Frete VB
+</name>
+</assembly>
+<members>
+<member name="T:Calcular_Frete_VB.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Calcular_Frete_VB.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Calcular_Frete_VB.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.#ctor">
+<remarks/>
+</member>
+<member name="E:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrecoPrazoCompleted">
+<remarks/>
+</member>
+<member name="E:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrecoPrazoDataCompleted">
+<remarks/>
+</member>
+<member name="E:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrecoPrazoRestricaoCompleted">
+<remarks/>
+</member>
+<member name="E:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrecoCompleted">
+<remarks/>
+</member>
+<member name="E:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrecoDataCompleted">
+<remarks/>
+</member>
+<member name="E:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrazoCompleted">
+<remarks/>
+</member>
+<member name="E:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrazoDataCompleted">
+<remarks/>
+</member>
+<member name="E:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrazoRestricaoCompleted">
+<remarks/>
+</member>
+<member name="E:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrecoFACCompleted">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrecoPrazo(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Decimal,System.Decimal,System.Decimal,System.Decimal,System.String,System.Decimal,System.String)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrecoPrazoAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Decimal,System.Decimal,System.Decimal,System.Decimal,System.String,System.Decimal,System.String)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrecoPrazoAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Decimal,System.Decimal,System.Decimal,System.Decimal,System.String,System.Decimal,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrecoPrazoData(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Decimal,System.Decimal,System.Decimal,System.Decimal,System.String,System.Decimal,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrecoPrazoDataAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Decimal,System.Decimal,System.Decimal,System.Decimal,System.String,System.Decimal,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrecoPrazoDataAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Decimal,System.Decimal,System.Decimal,System.Decimal,System.String,System.Decimal,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrecoPrazoRestricao(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Decimal,System.Decimal,System.Decimal,System.Decimal,System.String,System.Decimal,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrecoPrazoRestricaoAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Decimal,System.Decimal,System.Decimal,System.Decimal,System.String,System.Decimal,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrecoPrazoRestricaoAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Decimal,System.Decimal,System.Decimal,System.Decimal,System.String,System.Decimal,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPreco(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Decimal,System.Decimal,System.Decimal,System.Decimal,System.String,System.Decimal,System.String)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrecoAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Decimal,System.Decimal,System.Decimal,System.Decimal,System.String,System.Decimal,System.String)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrecoAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Decimal,System.Decimal,System.Decimal,System.Decimal,System.String,System.Decimal,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrecoData(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Decimal,System.Decimal,System.Decimal,System.Decimal,System.String,System.Decimal,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrecoDataAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Decimal,System.Decimal,System.Decimal,System.Decimal,System.String,System.Decimal,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrecoDataAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Decimal,System.Decimal,System.Decimal,System.Decimal,System.String,System.Decimal,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrazo(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrazoAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrazoAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrazoData(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrazoDataAsync(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrazoDataAsync(System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrazoRestricao(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrazoRestricaoAsync(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrazoRestricaoAsync(System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrecoFAC(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrecoFACAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CalcPrecoFACAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoWS.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:Calcular_Frete_VB.br.com.correios.ws.cResultado">
+<remarks/>
+</member>
+<member name="P:Calcular_Frete_VB.br.com.correios.ws.cResultado.Servicos">
+<remarks/>
+</member>
+<member name="T:Calcular_Frete_VB.br.com.correios.ws.cServico">
+<remarks/>
+</member>
+<member name="P:Calcular_Frete_VB.br.com.correios.ws.cServico.Codigo">
+<remarks/>
+</member>
+<member name="P:Calcular_Frete_VB.br.com.correios.ws.cServico.Valor">
+<remarks/>
+</member>
+<member name="P:Calcular_Frete_VB.br.com.correios.ws.cServico.PrazoEntrega">
+<remarks/>
+</member>
+<member name="P:Calcular_Frete_VB.br.com.correios.ws.cServico.ValorMaoPropria">
+<remarks/>
+</member>
+<member name="P:Calcular_Frete_VB.br.com.correios.ws.cServico.ValorAvisoRecebimento">
+<remarks/>
+</member>
+<member name="P:Calcular_Frete_VB.br.com.correios.ws.cServico.ValorValorDeclarado">
+<remarks/>
+</member>
+<member name="P:Calcular_Frete_VB.br.com.correios.ws.cServico.EntregaDomiciliar">
+<remarks/>
+</member>
+<member name="P:Calcular_Frete_VB.br.com.correios.ws.cServico.EntregaSabado">
+<remarks/>
+</member>
+<member name="P:Calcular_Frete_VB.br.com.correios.ws.cServico.Erro">
+<remarks/>
+</member>
+<member name="P:Calcular_Frete_VB.br.com.correios.ws.cServico.MsgErro">
+<remarks/>
+</member>
+<member name="P:Calcular_Frete_VB.br.com.correios.ws.cServico.ValorSemAdicionais">
+<remarks/>
+</member>
+<member name="P:Calcular_Frete_VB.br.com.correios.ws.cServico.obsFim">
+<remarks/>
+</member>
+<member name="T:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoDataCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoDataCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoDataCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoRestricaoCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoRestricaoCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoPrazoRestricaoCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoDataCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoDataCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoDataCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Calcular_Frete_VB.br.com.correios.ws.CalcPrazoCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Calcular_Frete_VB.br.com.correios.ws.CalcPrazoCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Calcular_Frete_VB.br.com.correios.ws.CalcPrazoCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Calcular_Frete_VB.br.com.correios.ws.CalcPrazoDataCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Calcular_Frete_VB.br.com.correios.ws.CalcPrazoDataCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Calcular_Frete_VB.br.com.correios.ws.CalcPrazoDataCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Calcular_Frete_VB.br.com.correios.ws.CalcPrazoRestricaoCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Calcular_Frete_VB.br.com.correios.ws.CalcPrazoRestricaoCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Calcular_Frete_VB.br.com.correios.ws.CalcPrazoRestricaoCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoFACCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoFACCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Calcular_Frete_VB.br.com.correios.ws.CalcPrecoFACCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>
