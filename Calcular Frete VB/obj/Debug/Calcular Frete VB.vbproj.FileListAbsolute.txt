@@ -1,0 +1,11 @@
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\calcular_frete\Calcular Frete VB\obj\Debug\Calcular Frete VB.vbprojResolveAssemblyReference.cache
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\calcular_frete\Calcular Frete VB\obj\Debug\Calcular_Frete_VB.Form1.resources
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\calcular_frete\Calcular Frete VB\obj\Debug\Calcular_Frete_VB.Resources.resources
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\calcular_frete\Calcular Frete VB\obj\Debug\Calcular Frete VB.vbproj.GenerateResource.Cache
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\calcular_frete\Calcular Frete VB\bin\Debug\Calcular Frete VB.exe.config
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\calcular_frete\Calcular Frete VB\bin\Debug\Calcular Frete VB.exe
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\calcular_frete\Calcular Frete VB\bin\Debug\Calcular Frete VB.pdb
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\calcular_frete\Calcular Frete VB\bin\Debug\Calcular Frete VB.xml
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\calcular_frete\Calcular Frete VB\obj\Debug\Calcular Frete VB.exe
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\calcular_frete\Calcular Frete VB\obj\Debug\Calcular Frete VB.xml
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\calcular_frete\Calcular Frete VB\obj\Debug\Calcular Frete VB.pdb
