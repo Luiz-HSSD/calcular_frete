@@ -24,3 +24,12 @@ C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\calcular_fret
 C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\calcular_frete\Calcular Frete\obj\Debug\Calcular Frete.csproj.GenerateResource.Cache
 C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\calcular_frete\Calcular Frete\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\calcular_frete\Calcular Frete\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Luiz\Source\Repos\calcular_frete\Calcular Frete\bin\Debug\Calcular Frete.exe.config
+C:\Users\Luiz\Source\Repos\calcular_frete\Calcular Frete\bin\Debug\Calcular Frete.exe
+C:\Users\Luiz\Source\Repos\calcular_frete\Calcular Frete\bin\Debug\Calcular Frete.pdb
+C:\Users\Luiz\Source\Repos\calcular_frete\Calcular Frete\obj\Debug\Calcular Frete.csprojResolveAssemblyReference.cache
+C:\Users\Luiz\Source\Repos\calcular_frete\Calcular Frete\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Luiz\Source\Repos\calcular_frete\Calcular Frete\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Luiz\Source\Repos\calcular_frete\Calcular Frete\obj\Debug\Calcular Frete.csproj.GenerateResource.Cache
+C:\Users\Luiz\Source\Repos\calcular_frete\Calcular Frete\obj\Debug\Calcular Frete.exe
+C:\Users\Luiz\Source\Repos\calcular_frete\Calcular Frete\obj\Debug\Calcular Frete.pdb

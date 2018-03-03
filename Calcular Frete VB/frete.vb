@@ -10,7 +10,7 @@ Public Class Frete
 
     Public Sub Calcular()
         Dim ws As CalcPrecoPrazoWS = New CalcPrecoPrazoWS()
-        Resultado = ws.CalcPrecoPrazo("", "", "40010 , 40045 , 40215 , 40290 , 41106", "08563010", CEP, Peso, 1, Comprimento, Altura, Largura, 0, "N", 17, "S")
+        Resultado = ws.CalcPrecoPrazo("", "", "40010 , 40045 , 40215 , 40290 , 41106", "08563010", CEP, Peso, 1, Comprimento, Altura, Largura, 0, "N", 18.5m, "S")
 
 
     End Sub

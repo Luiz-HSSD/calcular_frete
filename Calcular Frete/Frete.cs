@@ -45,7 +45,7 @@ namespace WindowsFormsApplication1
         }
         public cResultado calcular() 
         {
-            return ws.CalcPrecoPrazo("", "", "40010 , 40045 , 40215 , 40290 , 41106", "08563010", CEP, Peso, 1, Comprimento, Altura, Largura, 0, "N", 17, "S");
+            return ws.CalcPrecoPrazo("", "", "40010 , 40045 , 40215 , 40290 , 41106", "08563010", CEP, Peso, 1, Comprimento, Altura, Largura, 0, "N", 18.5m, "S");
         } 
     }
 }
