@@ -8,3 +8,14 @@ C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\calcular_fret
 C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\calcular_frete\Calcular Frete\obj\Release\Calcular Frete.exe
 C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\calcular_frete\Calcular Frete\obj\Release\Calcular Frete.pdb
 C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Calcular Frete\calcular_frete\Calcular Frete\obj\Release\Calcular Frete.XmlSerializers.dll
+C:\Users\Luiz\Source\Repos\calcular_frete\Calcular Frete\bin\Release\Calcular Frete.exe.config
+C:\Users\Luiz\Source\Repos\calcular_frete\Calcular Frete\obj\Release\Calcular Frete.exe
+C:\Users\Luiz\Source\Repos\calcular_frete\Calcular Frete\obj\Release\Calcular Frete.pdb
+C:\Users\Luiz\Source\Repos\calcular_frete\Calcular Frete\obj\Release\Calcular Frete.XmlSerializers.dll
+C:\Users\Luiz\Source\Repos\calcular_frete\Calcular Frete\bin\Release\Calcular Frete.exe
+C:\Users\Luiz\Source\Repos\calcular_frete\Calcular Frete\bin\Release\Calcular Frete.XmlSerializers.dll
+C:\Users\Luiz\Source\Repos\calcular_frete\Calcular Frete\bin\Release\Calcular Frete.pdb
+C:\Users\Luiz\Source\Repos\calcular_frete\Calcular Frete\obj\Release\Calcular Frete.csprojResolveAssemblyReference.cache
+C:\Users\Luiz\Source\Repos\calcular_frete\Calcular Frete\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Luiz\Source\Repos\calcular_frete\Calcular Frete\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Luiz\Source\Repos\calcular_frete\Calcular Frete\obj\Release\Calcular Frete.csproj.GenerateResource.Cache
